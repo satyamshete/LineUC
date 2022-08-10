@@ -7,8 +7,12 @@
             Console.WriteLine("Line Length Calculator");
 
             ////UC1
-            LineLengthCalculate lineLengthCalculate = new LineLengthCalculate();
-            lineLengthCalculate.CalculateLength();
+            //LineLengthCalculate lineLengthCalculate = new LineLengthCalculate();
+            //lineLengthCalculate.CalculateLength();
+
+            /////UC2
+            EqualityCheckcs equalityCheckcs = new EqualityCheckcs();
+            equalityCheckcs.CheckEquality();
         }
     }
 }
